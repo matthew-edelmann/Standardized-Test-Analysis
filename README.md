@@ -189,48 +189,5 @@ sat_act:
  Based on these findings, I recommend requiring either the SAT or ACT Exams. I say this because we see that even when it isn't required, it doesn't effect the average SAT scores of the school being applied to. Also, since schools that don't require the SAT scores tend to have higher SAT scores, this seems to mean that students that don't do well on it seem to just try to bypass it. But it is a good indicator if you belong in the college you are applying to. Also, we see that the ACT is just as good of an indicator as the SAT.
 
 
-### Technical Report
-[starter code](./code/starter-code.ipynb) 
-
-### Style Guide and Suggested Resources
-
-[Tim Dwyer](https://www.linkedin.com/in/jtimdwyer/) (former DSI student and TA) put together [this style guide](https://git.generalassemb.ly/DSIR-523/style-guide). Some recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
-
-Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
-
-[Here's a great summary](https://towardsdatascience.com/storytelling-with-data-a-data-visualization-guide-for-business-professionals-97d50512b407) of the main points of the book _Storytelling with Data_, which I can't recommend enough. [Here's a blog post](http://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles) by the author about his guiding principles for visualizations.
-
----
-
-### Submission
-
-**Materials must be submitted on Friday, June 3.**
-
-Your technical report will be hosted on Github Enterprise. Make sure it includes:
-
-- A README.md (that isn't this file)
-- Jupyter notebook(s) with your analysis (renamed to describe your project)
-- Data files
-- Presentation slides
-- Any other necessary files (images, etc.)
-
-**Please fork the project, download or clone to your local machine, and submit a link in the [Google Classroom](https://classroom.google.com/u/1/c/MzYyMzc5NTA5OTgy) assignment.**
-
----
-
-### Presentation Structure
-
-**You must be ready to present your findings by the start of class on June 3.**
-
-- **Must be within time limit - not more than 5 minutes.**
-- Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider the audience. Assume you are presenting to a non-technical audience (executives with the College Board, school administrators, admissions counselors, State officials, etc.).
-- Start with the **data science problem**.
-- Use visuals that are appropriately scaled and interpretable.
-- Talk about your procedure/methodology (high level, **CODE IS ALWAYS INAPPROPRIATE FOR A NON-TECHNICAL AUDIENCE**).
-- Talk about your primary findings.
-- Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
-
-Be sure to rehearse and time your presentation before class.
 
 
